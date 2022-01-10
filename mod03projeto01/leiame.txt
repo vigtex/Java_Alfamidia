@@ -1,0 +1,12 @@
+22/11/2021
+Este é o primeiro CRUD funcional em Java.
+- Não há tratamento de exceções basicamente.
+- Usa uma nova base de dados.
+- Quase não há CSS.
+- Praticamente o que foi feito em aula.
+- Uso de JSTL.
+Um modelo que será melhorado em breve em outros exemplos porvir.
+
+Virgilio
+virgilio.teixeira@outlook.com
+51 98160 9501
