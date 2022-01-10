@@ -1,0 +1,9 @@
+21/11/2021
+Projeto simples para gravar recados.
+Bem rústico, utiliza de um bloco de notas como base de dados.
+CSS próprio.
+Basicamente uma cópia do que foi feito em aula com pouquíssimas alterações e comentários.
+
+Virgilio
+virgilio.teixeira@outlook.com
+51 98160 9501
