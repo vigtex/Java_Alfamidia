@@ -1,0 +1,9 @@
+22/11/2021
+Praticamente o mesmo exemplo anterior, sendo que neste utilizamos JSTL.
+Utiliza inclusive da mesma base de dados.
+Particularmente, gosto de usar do JSTL em sua grande parte (até o momento).
+CSS mínimo.
+
+Virgilio
+virgilio.teixeira@outlook.com
+51 98160 9501
