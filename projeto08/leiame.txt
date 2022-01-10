@@ -1,0 +1,8 @@
+21/11/2021
+Novamente uma página de cadastro, desta vez utilizando MySQL como base de dados.
+Página sem CSS, somente mostrando o funcionamento da conexão e gravação com o banco de dados.
+Mais uma vez, praticamente cópia do que foi feito em aula, com muito pouco de inventividade.
+
+Virgilio
+virgilio.teixeira@outlook.com
+51 98160 9501
