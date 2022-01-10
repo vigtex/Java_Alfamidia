@@ -1,0 +1,9 @@
+22/11/2021
+Uma mistura dos exemplos anteriores com utilização de JSTL neste tb..
+Ainda a mesma base de dados.
+CSS próprio e conceitos de "includes" afim de deixar o código mais limpo e fácil de atualizar quando necessário.
+Ainda fora de packages.
+
+Virgilio
+virgilio.teixeira@outlook.com
+51 98160 9501
